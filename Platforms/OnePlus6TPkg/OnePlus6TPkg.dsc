@@ -347,5 +347,5 @@
 !endif #$(INCLUDE_TFTP_COMMAND)
 
 [BuildOptions]
-MSFT:*_*_*_CC_FLAGS = /w
+  AARCH64_CLANG38_CC_FLAGS = -Wno-error=unaligned-access
 
