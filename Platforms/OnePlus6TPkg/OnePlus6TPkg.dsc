@@ -217,6 +217,7 @@
   MdeModulePkg/Universal/SerialDxe/SerialDxe.inf
 !endif
 
+  MdeModulePkg/Universal/Variable/RuntimeDxe/VariableSmmRuntimeDxe.inf
   
   ArmPkg/Drivers/ArmGic/ArmGicDxe.inf
   ArmPkg/Drivers/TimerDxe/TimerDxe.inf
